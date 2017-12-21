@@ -41,7 +41,7 @@ AppAsset::register($this);
             ['label' => 'Home', 'url' => ['/site/index']],
             ['label' => 'Run test', 'url' => ['/machine/test']],
             ['label' => 'View tables', 'url' => ['/machine/tables']],
-            ['label' => 'View source', 'url' => 'http://github.com/AlbertIlyasov'],
+            ['label' => 'View source', 'url' => 'https://github.com/AlbertIlyasov/testforex/'],
         ],
     ]);
     NavBar::end();
